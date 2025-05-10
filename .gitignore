@@ -1,0 +1,12 @@
+# Environment files
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS and editor junk
+.DS_Store
+*.swp
