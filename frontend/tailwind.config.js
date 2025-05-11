@@ -1,10 +1,10 @@
 export default {
   content: [
-    './index.html',           // Include the template HTML
-    './src/**/*.{js,jsx}',    // Scan all JS/JSX files in src for Tailwind classes
+    './index.html',
+    './src/**/*.{js,jsx}',
   ],
   theme: {
-    extend: {},              // Customize Tailwind theme if needed
+    extend: {},
   },
-  plugins: [],               // Add plugins if needed
+  plugins: [],
 };
