@@ -10,3 +10,6 @@ node_modules/
 # OS and editor junk
 .DS_Store
 *.swp
+
+
+documentation.txt
